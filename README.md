@@ -1,7 +1,6 @@
 # Example Notebooks to run against ldaca
 
-# Branch protected so we do not push sensitive information
-# Remeber to remove notebook output
+## Branch protected so we do not push sensitive information and remember to remove notebook output
 
 This example run currently using a demo version of Oni deployed on nectar
 
