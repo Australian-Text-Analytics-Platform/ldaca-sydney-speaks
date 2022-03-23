@@ -1,0 +1,3 @@
+notebooks/*
+!notebooks/ldaca_sydney-speaks.ipynb
+.DS_Store
